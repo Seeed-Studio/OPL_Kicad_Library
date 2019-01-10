@@ -1,9 +1,10 @@
 # Seeed Fusion PCBA Open Parts Library Component Library for KiCad
 
-The Seeed Fusion Open Parts Libraries (OPL) and the associated component libraries are provided and maintained by Seeed Fusion and the wider community for the turnkey Seeed Fusion PCB Assembly (PCBA) Service. The OPL is a catalog of over 10,000 locally sourced components that can reduce costs and cut the production time of turnkey PCB assembly to just 7 working days. Click here to learn more about the Seeed Fusion PCBA service.
+The Seeed Fusion Open Parts Libraries (OPL) and the associated component libraries are provided and maintained by the [SeeedStudio Fusion team](https://www.seeedstudio.com/fusion.html) and the wider community for the turnkey [Seeed Fusion PCB Assembly (PCBA) Service](https://www.seeedstudio.com/prototype-pcb-assembly.html). The OPL is a catalog of over 10,000 locally sourced components that can reduce costs and cut the production time of turnkey PCB assembly to just 7 working days. Click here to learn more about the [Seeed Fusion PCBA service](https://www.seeedstudio.com/fusion.html). The catalog of available parts can be found [here](https://www.seeedstudio.com/opl.html).
 
 To accelerate PCB design and make it much more convenient, Seeed Fusion has provided these component libraries for Eagle and KiCad. Prepared and scrutinized by our own engineers, these footprints can save you hours of design time and minimize potential production errors, so you can get on with PCB design with peace of mind. 
 
+## Even More Components!
 As of last December, the OPL has expanded from 800 components to more than 10,000 with the introduction of the new Shenzhen OPL. The original Seeed OPL, is a catalogue of components from Seeed’s own inventory, we have the parts and we have been using them in our own manufacturing for years. The Shenzhen OPL contains parts from Shenzhen’s biggest components distributor that Seeed can quickly order for turnkey PCBA. While the sources are different, both can be used together with the Seeed Fusion PCBA service and reduce the production time to 7 days.
 
 But with all the new components and many more to come, we don’t have enough resources to create the footprints for all of them. So, we are asking for help from you and the wider community to gradually build-up the library with us. As more and more users utilize the OPL and update the component libraries, the better the library will become for everyone. 
@@ -12,6 +13,8 @@ To assist with the process, we have designated a team of engineers to maintain t
 
 ## Footprint Design Guidelines
 It is still early days and we have a lot of catching up to do. So, the most important additions at this stage are unique symbols and footprints and any generic footprints that are missing. Part specific symbols that use generic footprints and slight variations of generic footprints can be added later.
+
+For consistency and ease of use, we would greatly appreciate it if everyone followed the same guidelines for new additions to the library:
 
 -	The previous component libraries have been re-organized to match the Shenzhen OPL’s categorization. Please add new entries to the relevant sub-library according to the online OPL library’s classification.
 -	Please take the time to study [KiCad’s own Library Convention](http://kicad-pcb.org/libraries/klc/) and ensure that the new footprints comply. Please refer to other footprints in the OPL or KiCad’s built-in footprints for reference. 
