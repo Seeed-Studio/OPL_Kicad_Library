@@ -13,6 +13,10 @@ To assist with the process, we have designated a team of engineers to maintain t
 ## Footprint Design Guidelines
 It is still early days and we have a lot of catching up to do. So, the most important additions at this stage are unique symbols and footprints and any generic footprints that are missing. Part specific symbols that use generic footprints and slight variations of generic footprints can be added later.
 
+-	The previous component libraries have been re-organized to match the Shenzhen OPL’s categorization. Please add new entries to the relevant sub-library according to the online OPL library’s classification.
+-	Please take the time to study [KiCad’s own Library Convention](http://kicad-pcb.org/libraries/klc/) and ensure that the new footprints comply. Please refer to other footprints in the OPL or KiCad’s built-in footprints for reference. 
+-	For MPN specific footprints, please follow the existing footprint naming convention for the footprint and name the corresponding schematic symbol with the manufacturer part number.
+
 
 ## Resources
 1. A KiCad Bill-of-Materials (BOM) plugin to follow SeeedStudio's Fusion PCBA assembly service's template, This plugin is set up to use the KiCad schematic's part data as it is provided in Seeed Studio's Open Parts Library (OPL) collection for KiCad. - https://github.com/imrehg/kicad-bom-seeedstudio
