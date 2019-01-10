@@ -1,4 +1,4 @@
-# OPL_Kicad_Library
+# Seeed Fusion PCBA Open Parts Library Component Library for KiCad
 
 This is the Kicad Library for OPL components. Hope it can be a helper for you.  For any suggestion, please drop us a note at Ivy.li@seeed.cc
 
