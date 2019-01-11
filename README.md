@@ -6,11 +6,13 @@ To accelerate PCB design and make it much more convenient, Seeed Fusion has prov
 
 ## Even More Components!
 
-![alt text](https://www.seeedstudio.com/wp-content/uploads/2018/12/1200_628-facebook-ad-copy.png)
+![](https://blog.seeedstudio.com/wp-content/uploads/2018/12/1200_628-facebook-ad-copy.png)
 
 As of last December, the OPL has expanded from 800 components to more than 10,000 with the introduction of the new Shenzhen OPL. The original Seeed OPL is a catalog of components from Seeed’s own inventory, we have the parts and, we have been using them in our own production processes for years. The Shenzhen OPL contains parts from Shenzhen’s biggest components distributor that Seeed can quickly order for turnkey PCBA. While the sources are different, both can be used together with the Seeed Fusion PCBA service and reduce the production time to 7 days.
 
 But with all the new components and many more to come, we don’t have enough resources to create the footprints for all of them. So, we are asking for help from you and the wider community to gradually build-up the library with us. As more and more users utilize the OPL and update the component libraries, the better the library will become for everyone. 
+
+![](https://gallery.mailchimp.com/0c272aa6642cc5d058579205f/images/33be2dbe-deda-4706-a83a-a15d25ab8264.png)
 
 To assist with the process, we have designated a team of engineers to maintain the library and double check pull-requests. They will also help draw some footprints and connect schematic symbols. But while our engineers do their best to check each footprint, with the sheer number of components, it is inevitable that some errors will be present. It is unavoidable. So to make up for it, Seeed Fusion has introduced a re-manufacture promise: If an error in the library requires the boards to be re-manufactured, then we will re-manufacture the corrected boards for you for free. By using this library, you accept this potential risk.
 
