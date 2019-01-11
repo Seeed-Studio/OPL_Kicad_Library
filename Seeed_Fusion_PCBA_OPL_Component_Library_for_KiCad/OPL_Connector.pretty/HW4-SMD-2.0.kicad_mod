@@ -1,4 +1,4 @@
-(module HW4-SMD-2.0 (layer F.Cu) (tedit 5BD4C0A0)
+(module HW4-SMD-2.0 (layer F.Cu) (tedit 5C380F48)
   (attr smd)
   (fp_text reference REF** (at -0.025 -3.325) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

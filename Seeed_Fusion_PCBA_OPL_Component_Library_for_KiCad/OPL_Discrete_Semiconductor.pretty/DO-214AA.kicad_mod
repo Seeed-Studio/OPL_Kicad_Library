@@ -1,6 +1,6 @@
-(module DO-214AA (layer F.Cu) (tedit 5BCC51E4)
+(module DO-214AA (layer F.Cu) (tedit 5C37F9F2)
   (attr smd)
-  (fp_text reference REF** (at 0 -2.794) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.975) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value DO-214AA (at 0 3.025) (layer F.Fab)
