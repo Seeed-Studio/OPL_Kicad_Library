@@ -1,4 +1,5 @@
-# Seeed Fusion PCBA Open Parts Library Component Library for KiCad
+# Seeed Fusion PCBA Open Parts Library:
+# Component Library for KiCad
 
 The Seeed Fusion Open Parts Libraries (OPL) and the associated component libraries are provided and maintained by the [Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html) team and the wider community for the turnkey [Seeed Fusion PCB Assembly (PCBA) Service](https://www.seeedstudio.com/prototype-pcb-assembly.html). The OPL is a catalog of over 10,000 locally sourced components that can reduce costs and cut the production time of turnkey PCB assembly to just 7 working days. Find out more about the [Seeed Fusion PCBA service](https://www.seeedstudio.com/fusion.html). The catalog of available parts can be found [here](https://www.seeedstudio.com/opl.html).
 
