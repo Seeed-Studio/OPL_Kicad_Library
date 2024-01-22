@@ -12,8 +12,6 @@ As of last December, the [OPL has expanded](http://www.seeedstudio.com/blog/2018
 
 But with all the new components and many more to come, we don’t have enough resources to create the footprints for all of them. So, we are asking for help from you and the wider community to gradually build-up the library with us. As more and more users utilize the OPL and update the component libraries, the better the library will become for everyone. 
 
-![](https://gallery.mailchimp.com/0c272aa6642cc5d058579205f/images/33be2dbe-deda-4706-a83a-a15d25ab8264.png)
-
 To assist with the process, we have designated a team of engineers to maintain the library and GitHub repositories. They will also help draw some footprints and connect schematic symbols. But while our engineers do their best to check each footprint, with the sheer number of components, it is inevitable that some errors will be present. It is unavoidable. So to make up for it, Seeed Fusion has introduced a re-manufacture promise: If an error in the library requires the boards to be re-manufactured, then we will re-manufacture the corrected boards for you for free. By using this library, you accept this potential risk.
 
 ## Footprint Design Guidelines
