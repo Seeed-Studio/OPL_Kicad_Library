@@ -11,7 +11,9 @@ To accelerate PCB design and make it much more convenient, Seeed Fusion has prov
 - [**Preparatory Work: KiCad Download and Library Download**](#jump1)
 - [**How to add and use Seeed OPL Footprint Libraries(Grove Vision AI V2)**](#jump2)
 - [**How to add and use Seeed OPL Symbol Libraries(Grove Vision AI V2)**](#jump3)
-- [**Resoureces**](#jump4)
+- [**Seeed Studio Fusion PCB/ PCBA Service**](#jump4)
+- [**Co-Create with Seeed Studio**](#jump5)
+- [**Resoureces**](#jump6)
 
 ![](/images/18.png)
 
@@ -115,7 +117,27 @@ Now you have added the "OPL_Sensor-Transducer library"
 
 10. You can change any component on the Grove Vision VI V2 module and make it your own project.
 
-## Resources
+## <span id="jump4"> Seeed Studio Fusion PCB/ PCBA Service </span>
+
+Seeed Studio Fusion serves as the comprehensive service platform for Seeed Studio, a global one-stop online platform offering PCB manufacturing, assembly, and hardware customization.
+If you have an exciting project idea and require PCB/PCBA support to kickstart a prototype, Seeed Studio Fusion can sponsor certain amonut of PCB/PCBA for you.
+
+- [PCB/PCBA Design](https://www.seeedstudio.com/fusion_pcb.html)
+- [Fusion Website](https://www.seeedstudio.com/fusion.html)
+- **Email Contact**: fusion@seeed.io
+
+
+## <span id="jump5"> Co-Create with Seeed Studio </span>
+
+Leverage our Co-Create Program to transform your advanced prototype into a commercially successful product! This program is designed to optimize your product's journey from prototype to market by handling marketing, packaging, and distribution, allowing you to concentrate on refining your product. Upon acceptance of your prototype by Seeed, it will be showcased on the Seeed Studio marketplace. You'll receive a portion of the profits for each unit sold.
+
+- [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSe3A7_rIbn2OLO4JyJd_poGZodItCaRy6M6-3FtdqL3xG1Usg/viewform)
+- [Co-Create Website](https://www.seeedstudio.com/co-create.html)
+
+
+
+
+## <span id="jump6"> Resources </span>
 
 - [Seeed Studio Open Parts List](https://files.seeedstudio.com/wiki/OPL/OPL_list.xlsx)
 
