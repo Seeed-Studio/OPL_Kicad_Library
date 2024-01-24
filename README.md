@@ -1,10 +1,125 @@
-# Seeed Fusion PCBA Open Parts Library: Component Library for KiCad
+# Welcome to Our Hardware Component Repository!
 
-The Seeed Fusion Open Parts Libraries (OPL) and the associated component libraries are provided and maintained by the [Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html) team and the wider community for the turnkey [Seeed Fusion PCB Assembly (PCBA) Service](https://www.seeedstudio.com/prototype-pcb-assembly.html). The OPL is a catalog of over 10,000 locally sourced components that can reduce costs and cut the production time of turnkey PCB assembly to just 7 working days. Find out more about the [Seeed Fusion PCBA service](https://www.seeedstudio.com/fusion.html). The catalog of available parts can be found [here](https://www.seeedstudio.com/opl.html).
+Dive into a world of innovation with our curated collection of hardware components straight from the electronics hub of Shenzhen, complemented by an array of parts supported by Seeed Studio. Our mission is to empower makers, developers, and hardware enthusiasts with a diverse repository that streamlines innovation and accelerates development.
 
-To accelerate PCB design and make it much more convenient, Seeed Fusion has provided these component libraries for Eagle and KiCad. Prepared and scrutinized by our own engineers, these footprints can save you hours of design time and minimize potential production errors, so you can get on with PCB design with peace of mind. 
+The Seeed Fusion Open Parts Libraries (OPL) and the associated component libraries are provided and maintained by the [Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html) team and the wider community for the turnkey [Seeed Fusion PCB Assembly (PCBA) Service](https://www.seeedstudio.com/prototype-pcb-assembly.html).
 
-## Even More Components!
+To accelerate PCB design and make it much more convenient, Seeed Fusion has provided these component libraries for KiCad. Prepared and scrutinized by our own engineers, these footprints can save you hours of design time and minimize potential production errors, so you can get on with PCB design with peace of mind.
+
+![](/images/18.png)
+
+## Highlights
+
+- [**Preparatory Work: KiCad Download and Library Download**](#jump1)
+- [**How to add and use Seeed OPL Footprint Libraries(Grove Vision AI V2)**](#jump2)
+- [**How to add and use Seeed OPL Symbol Libraries(Grove Vision AI V2)**](#jump3)
+- [**Resoureces**](#jump4)
+
+## <span id="jump1">Preparatory Work: KiCad Download and Library Download </span>
+
+1. You can refer to this [link](https://www.kicad.org/download/) to download the KiCad software.
+ 
+2. You can [download](https://github.com/Seeed-Studio/OPL_Kicad_Library) the "OPL_KiCad_Library" or use command to clone:
+
+```
+git clone https://github.com/Seeed-Studio/OPL_Kicad_Library.git
+```
+
+![](/images/0.png)
+
+## How to add and use Seeed OPL Footprint Libraries
+
+### <span id="jump2"> Take Grove Vision AI V2 and XIAO footprint as an Example </span>
+
+1. Open KiCad and refer to `File -> Open Project`.
+
+![](./images/1.png)
+
+2. Find the "Gorve Vision AI V2 Library" and open the project:
+
+![](./images/2.png)
+
+3. Double click the "Grove Vision AI V2" PCB file and you will see below:
+
+![](./images/3.png)
+
+4. Refer to the `Perferences -> Manage Footprint Libraries`
+
+![](./images/4.png)
+
+5. Here is the existed footprint libraries and you can click the button below:
+
+![](./images/5.png)
+
+6. Find the "Gorve Vision AI V2 Library" and open the folder that contains the boards footprint:
+
+![](./images/6.png)
+
+Now you have added the "XIAO footprint library"
+
+7. You can click here to use the added library:
+
+![](./images/7.png)
+
+8. Search for "seeed" and you can check the footprint added:
+
+![](./images/8.png)
+
+9. Click "ok" and you can add the XIAO RP2040 footprint into the "Grove Vision VI V2".
+
+![](./images/9.png)
+
+10. You can change any component on the Grove Vision VI V2 module and make it your own project.
+
+## <span id="jump3"> How to add and use Seeed OPL Symbol Libraries </span>
+
+### Take Grove Vision AI V2 and Sensor-Transducer as an Example:
+
+1. Open KiCad and refer to `File -> Open Project`.
+
+![](./images/1.png)
+
+2. Find the "Gorve Vision AI V2 Library" and open the project:
+
+![](./images/2.png)
+
+3. Double click the "Grove Vision AI V2" .sch file and you will see below:
+
+![](./images/10.png)
+
+4. Refer to the `Perferences -> Manage Symbol Libraries`
+
+![](./images/11.png)
+
+5. Here is the existed symbol libraries and you can click the button below:
+
+![](./images/12.png)
+
+6. Find the "OPL_Sensor-Transducer" lib file:
+
+![](./images/13.png)
+
+Now you have added the "OPL_Sensor-Transducer library"
+
+7. You can click here to use the added library:
+
+![](./images/16.png)
+
+8. Search for "OPL" and you can check the symbol added:
+
+![](./images/14.png)
+
+9. Click "ok" and you can add it into the "Grove Vision VI V2".
+
+![](./images/15.png)
+
+10. You can change any component on the Grove Vision VI V2 module and make it your own project.
+
+## Resources
+
+- [Seeed Studio Open Parts List](https://files.seeedstudio.com/wiki/OPL/OPL_list.xlsx)
+
+<!-- ## Even More Components!
 
 ![](https://blog.seeedstudio.com/wp-content/uploads/2018/12/1200_628-facebook-ad-copy.png)
 
@@ -38,4 +153,4 @@ We hope the new maintained library will prove to be an invaluable resource to al
 1. A KiCad Bill-of-Materials (BOM) plugin to follow SeeedStudio's Fusion PCBA assembly service's template, This plugin is set up to use the KiCad schematic's part data as it is provided in Seeed Studio's Open Parts Library (OPL) collection for KiCad. - https://github.com/imrehg/kicad-bom-seeedstudio
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/OPL_Kicad_Library)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/OPL_Kicad_Library)](https://github.com/igrigorik/ga-beacon) -->
