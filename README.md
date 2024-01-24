@@ -15,12 +15,12 @@ To accelerate PCB design and make it much more convenient, Seeed Fusion has prov
 - [**Co-Create with Seeed Studio**](#jump5)
 - [**Resoureces**](#jump6)
 
-![](/images/18.png)
+![](/images/19.png)
 
 ## <span id="jump1">Preparatory Work: KiCad Download and Library Download </span>
 
 1. You can refer to this [link](https://www.kicad.org/download/) to download the KiCad software.
- 
+
 2. You can [download](https://github.com/Seeed-Studio/OPL_Kicad_Library) the "OPL_KiCad_Library" or use command to clone:
 
 ```
