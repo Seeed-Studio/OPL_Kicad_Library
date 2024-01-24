@@ -11,7 +11,7 @@ To accelerate PCB design and make it much more convenient, Seeed Fusion has prov
 - [**Preparatory Work: KiCad Download and Library Download**](#jump1)
 - [**How to add and use Seeed OPL Footprint Libraries(Grove Vision AI V2)**](#jump2)
 - [**How to add and use Seeed OPL Symbol Libraries(Grove Vision AI V2)**](#jump3)
-- [**Seeed Studio Fusion PCB/ PCBA Service**](#jump4)
+- [**Scale up Your Creation With Seeed Studio Fusion**](#jump4)
 - [**Co-Create with Seeed Studio**](#jump5)
 - [**Resoureces**](#jump6)
 
@@ -117,10 +117,9 @@ Now you have added the "OPL_Sensor-Transducer library"
 
 10. You can change any component on the Grove Vision VI V2 module and make it your own project.
 
-## <span id="jump4"> Seeed Studio Fusion PCB/ PCBA Service </span>
+## <span id="jump4"> Scale up Your Creation With Seeed Studio Fusion </span>
 
-Seeed Studio Fusion serves as the comprehensive service platform for Seeed Studio, a global one-stop online platform offering PCB manufacturing, assembly, and hardware customization.
-If you have an exciting project idea and require PCB/PCBA support to kickstart a prototype, Seeed Studio Fusion can sponsor certain amonut of PCB/PCBA for you.
+Seeed Studio Fusion serves as the comprehensive service platform for Seeed Studio, a global one-stop online platform offering PCB manufacturing, PCB assembly and hardware customization with global sourcing capability. Whether you need prototyping, mass production, custom solutions for open-source products, or the transformation of your creative ideas into profitable products, Seeed Studio Fusion can meet your requirements.
 
 - [PCB/PCBA Design](https://www.seeedstudio.com/fusion_pcb.html)
 - [Fusion Website](https://www.seeedstudio.com/fusion.html)
