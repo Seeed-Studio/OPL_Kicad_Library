@@ -6,14 +6,14 @@ The Seeed Fusion Open Parts Libraries (OPL) and the associated component librari
 
 To accelerate PCB design and make it much more convenient, Seeed Fusion has provided these component libraries for KiCad. Prepared and scrutinized by our own engineers, these footprints can save you hours of design time and minimize potential production errors, so you can get on with PCB design with peace of mind.
 
-![](/images/18.png)
-
-## Highlights
+## Highlights(Content of Tables)
 
 - [**Preparatory Work: KiCad Download and Library Download**](#jump1)
 - [**How to add and use Seeed OPL Footprint Libraries(Grove Vision AI V2)**](#jump2)
 - [**How to add and use Seeed OPL Symbol Libraries(Grove Vision AI V2)**](#jump3)
 - [**Resoureces**](#jump4)
+
+![](/images/18.png)
 
 ## <span id="jump1">Preparatory Work: KiCad Download and Library Download </span>
 
