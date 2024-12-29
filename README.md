@@ -13,7 +13,7 @@ To accelerate PCB design and make it much more convenient, Seeed Fusion has prov
 - [**How to add and use Seeed OPL Symbol Libraries(Grove Vision AI V2)**](#jump3)
 - [**Scale up Your Creation With Seeed Studio Fusion**](#jump4)
 - [**Co-Create with Seeed Studio**](#jump5)
-- [**Resoureces**](#jump6)
+- [**Resources**](#jump6)
 
 ![](/images/19.png)
 
@@ -37,7 +37,7 @@ git clone https://github.com/Seeed-Studio/OPL_Kicad_Library.git
 
 ![](./images/1.png)
 
-2. Find the "Gorve Vision AI V2 Library" and open the project:
+2. Find the "Grove Vision AI V2 Library" and open the project:
 
 ![](./images/2.png)
 
@@ -45,7 +45,7 @@ git clone https://github.com/Seeed-Studio/OPL_Kicad_Library.git
 
 ![](./images/3.png)
 
-4. Refer to the `Perferences -> Manage Footprint Libraries`
+4. Refer to the `Preferences -> Manage Footprint Libraries`
 
 ![](./images/4.png)
 
@@ -53,7 +53,7 @@ git clone https://github.com/Seeed-Studio/OPL_Kicad_Library.git
 
 ![](./images/5.png)
 
-6. Find the "Gorve Vision AI V2 Library" and open the folder that contains the boards footprint:
+6. Find the "Grove Vision AI V2 Library" and open the folder that contains the boards footprint:
 
 ![](./images/6.png)
 
@@ -81,7 +81,7 @@ Now you have added the "XIAO footprint library"
 
 ![](./images/1.png)
 
-2. Find the "Gorve Vision AI V2 Library" and open the project:
+2. Find the "Grove Vision AI V2 Library" and open the project:
 
 ![](./images/2.png)
 
@@ -89,7 +89,7 @@ Now you have added the "XIAO footprint library"
 
 ![](./images/10.png)
 
-4. Refer to the `Perferences -> Manage Symbol Libraries`
+4. Refer to the `Preferences -> Manage Symbol Libraries`
 
 ![](./images/11.png)
 
