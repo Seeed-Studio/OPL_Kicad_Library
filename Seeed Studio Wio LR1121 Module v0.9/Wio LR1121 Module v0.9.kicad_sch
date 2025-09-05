@@ -1,0 +1,176 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "aec1c255-9330-4c8b-9391-79ab531f92ea")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 5.08 22.86)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4a325046-8616-43fd-a3e0-0e3798b4ab7e")
+		(property "Sheetname" "03 Power IN & MCU GPIOs"
+			(at 5.08 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3_03 Power IN & MCU GPIOs.kicad_sch"
+			(at 5.08 27.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wio LR1121 Module v0.9"
+				(path "/aec1c255-9330-4c8b-9391-79ab531f92ea"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 13.97)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8d85316e-8a7a-44ff-b1a9-f06a445a668f")
+		(property "Sheetname" "02 Block Diagram"
+			(at 5.08 13.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2_02 Block Diagram.kicad_sch"
+			(at 5.08 18.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wio LR1121 Module v0.9"
+				(path "/aec1c255-9330-4c8b-9391-79ab531f92ea"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 5.08)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c663beed-38b4-4662-b52a-52aeb702edcc")
+		(property "Sheetname" "01 Table of Contents"
+			(at 5.08 4.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1_01 Table of Contents.kicad_sch"
+			(at 5.08 9.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wio LR1121 Module v0.9"
+				(path "/aec1c255-9330-4c8b-9391-79ab531f92ea"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 31.75)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f0c4160b-c832-4c21-9bcd-419556e81e53")
+		(property "Sheetname" "04 PIN OUT"
+			(at 5.08 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "4_04 PIN OUT.kicad_sch"
+			(at 5.08 36.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Wio LR1121 Module v0.9"
+				(path "/aec1c255-9330-4c8b-9391-79ab531f92ea"
+					(page "4")
+				)
+			)
+		)
+	)
+)

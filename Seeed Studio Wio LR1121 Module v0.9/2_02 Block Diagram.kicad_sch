@@ -1,0 +1,475 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2a4cdd41-81aa-4e42-a169-ca80a438725d")
+	(paper "User" 420.37 297.18)
+	(lib_symbols
+		(symbol "ProPrj_Wio-easyedapro:pageTemplate_A3_1654x1169"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ProPrj_Wio-easyedapro:"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "pageTemplate_A3_1654x1169_1_0"
+				(rectangle
+					(start 0 0)
+					(end 420.116 -296.926)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 321.564 -263.398)
+					(end 413.004 -288.798)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 321.564 -278.638) (xy 413.004 -278.638)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 331.724 -278.638) (xy 331.724 -284.988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 348.234 -284.988) (xy 348.234 -288.798)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 354.584 -271.018) (xy 413.004 -271.018)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 354.584 -278.638) (xy 354.584 -263.398)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 393.954 -284.988) (xy 393.954 -288.798)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 397.764 -278.638) (xy 397.764 -284.988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 413.004 -284.988) (xy 321.564 -284.988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "Size:"
+					(at 322.834 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Size:"
+					(at 322.834 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Draw By:"
+					(at 322.834 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Draw By:"
+					(at 322.834 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Document Number:"
+					(at 332.994 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Document Number:"
+					(at 332.994 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Date:"
+					(at 349.504 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Date:"
+					(at 349.504 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Title:"
+					(at 356.87 -272.288 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Title:"
+					(at 356.87 -272.288 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "https://www.seeedstudio.com"
+					(at 357.124 -264.922 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "https://www.seeedstudio.com"
+					(at 357.124 -264.922 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Sheet:"
+					(at 395.224 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Sheet:"
+					(at 395.224 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Rev:"
+					(at 399.034 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Rev:"
+					(at 399.034 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "of"
+					(at 406.146 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "of"
+					(at 406.146 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "ProPrj_Wio-easyedapro:pageTemplate_A3_1654x1169")
+		(at 0 0 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1cfab38c-2c05-44a5-8f84-91d9fc9226cb")
+		(property "Reference" "?"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "pageTemplate_A3_1654x1169"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_Wio-easyedapro:"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Drawing" "Harry Qin"
+			(at 332.994 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Count" "4"
+			(at 409.448 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Modify Date" "Friday, December 27, 2024"
+			(at 355.854 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Name" "02 Block Diagram"
+			(at 357.124 281.178 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Number" "2"
+			(at 403.098 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Size" "A3"
+			(at 325.374 281.94 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "RevCode" "v1.0"
+			(at 401.574 281.94 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Schematic Name" "Wio LR1121 Module"
+			(at 363.22 272.542 0)
+			(effects
+				(font
+					(size 1.651 1.651)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project ""
+				(path "/aec1c255-9330-4c8b-9391-79ab531f92ea/8d85316e-8a7a-44ff-b1a9-f06a445a668f"
+					(reference "?")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

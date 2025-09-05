@@ -1,0 +1,806 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "68c13d1e-d730-43bc-8894-ed611e123053")
+	(paper "User" 420.37 297.18)
+	(lib_symbols
+		(symbol "ProPrj_Wio-easyedapro:pageTemplate_A3_1654x1169"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ProPrj_Wio-easyedapro:"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "pageTemplate_A3_1654x1169_1_0"
+				(rectangle
+					(start 0 0)
+					(end 420.116 -296.926)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 321.564 -263.398)
+					(end 413.004 -288.798)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 321.564 -278.638) (xy 413.004 -278.638)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 331.724 -278.638) (xy 331.724 -284.988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 348.234 -284.988) (xy 348.234 -288.798)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 354.584 -271.018) (xy 413.004 -271.018)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 354.584 -278.638) (xy 354.584 -263.398)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 393.954 -284.988) (xy 393.954 -288.798)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 397.764 -278.638) (xy 397.764 -284.988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 413.004 -284.988) (xy 321.564 -284.988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "Size:"
+					(at 322.834 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Draw By:"
+					(at 322.834 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Document Number:"
+					(at 332.994 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Date:"
+					(at 349.504 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Title:"
+					(at 356.87 -272.288 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "https://www.seeedstudio.com"
+					(at 357.124 -264.922 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Sheet:"
+					(at 395.224 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "Rev:"
+					(at 399.034 -279.146 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+				(text "of"
+					(at 406.146 -285.75 0)
+					(effects
+						(font
+							(size 1.2192 1.2192)
+						)
+						(justify left top)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(rectangle
+		(start 12.7 25.4)
+		(end 40.64 33.02)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 516aa893-7317-4c08-bc3b-a6741bb28b5f)
+	)
+	(rectangle
+		(start 40.64 55.88)
+		(end 129.54 63.5)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 58646c6f-d8a0-40b2-bc2a-f637fce2bd01)
+	)
+	(rectangle
+		(start 12.7 17.78)
+		(end 40.64 25.4)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 596ed3d2-1226-4548-9ada-c3cf2d04ba9b)
+	)
+	(rectangle
+		(start 40.64 25.4)
+		(end 129.54 33.02)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 904d073c-6484-442b-914a-ecb59c104b41)
+	)
+	(rectangle
+		(start 12.7 48.26)
+		(end 40.64 55.88)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a8e24500-1a5e-458f-8fdf-ccb50adb062d)
+	)
+	(rectangle
+		(start 12.7 33.02)
+		(end 40.64 40.64)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d8872b81-357a-4bfa-8bd1-8f4d6f332348)
+	)
+	(rectangle
+		(start 40.64 40.64)
+		(end 129.54 48.26)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid da0df86c-3e58-42bb-ab2c-b63f5bb203cd)
+	)
+	(rectangle
+		(start 40.64 17.78)
+		(end 129.54 25.4)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid defd142b-ce7b-425a-9ad0-eaaf740b436f)
+	)
+	(rectangle
+		(start 12.7 55.88)
+		(end 40.64 63.5)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e6a3cbf0-24e3-4c6a-91cc-8a9fc00c494c)
+	)
+	(rectangle
+		(start 12.7 40.64)
+		(end 40.64 48.26)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ea1d8c55-9952-4375-a665-1c4305253c19)
+	)
+	(rectangle
+		(start 40.64 48.26)
+		(end 129.54 55.88)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f3d30b88-57a5-4c98-bc8d-adde8c5db4af)
+	)
+	(rectangle
+		(start 40.64 33.02)
+		(end 129.54 40.64)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid fe833705-ce07-443a-9d96-1e39f9355381)
+	)
+	(text "DESCRIPTION"
+		(exclude_from_sim no)
+		(at 289.56 17.78 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+			)
+			(justify left top)
+		)
+		(uuid "0aa0978f-b8c3-4c4b-966d-321ff3367715")
+	)
+	(text "Schematic:LR1121 Module"
+		(exclude_from_sim no)
+		(at 12.7 10.16 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+			)
+			(justify left top)
+		)
+		(uuid "0d2cb00b-c6ee-4263-9a7b-2cd97cb9d665")
+	)
+	(text "02"
+		(exclude_from_sim no)
+		(at 21.59 34.29 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "29fdd841-c7c5-48df-b62d-7ab558b5f9c2")
+	)
+	(text "Revision History"
+		(exclude_from_sim no)
+		(at 218.44 10.16 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+			)
+			(justify left top)
+		)
+		(uuid "393e61b4-bbcc-45ea-bcfe-d2294fa44ab6")
+	)
+	(text "SHEET NAME"
+		(exclude_from_sim no)
+		(at 45.72 19.05 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "3b95d817-c7f5-439f-8117-280d0f335b7a")
+	)
+	(text "1. Initial"
+		(exclude_from_sim no)
+		(at 231.14 27.94 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left top)
+		)
+		(uuid "4899f199-3bd1-4238-9261-9384f262efe5")
+	)
+	(text "v0.9"
+		(exclude_from_sim no)
+		(at 182.88 27.94 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left top)
+		)
+		(uuid "59ba490b-f927-4d9d-b667-533248ac2649")
+	)
+	(text "01"
+		(exclude_from_sim no)
+		(at 21.59 26.67 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "5a408284-eeba-49c8-bf1d-3d6cc5bf3ba2")
+	)
+	(text "Block Diagram"
+		(exclude_from_sim no)
+		(at 45.72 35.56 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "5e9d44ec-eed2-44e8-b6cd-d5913a88740a")
+	)
+	(text "04"
+		(exclude_from_sim no)
+		(at 21.59 49.53 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "748229bf-dfe0-4ae4-b656-4c3b894a820b")
+	)
+	(text "SHEET"
+		(exclude_from_sim no)
+		(at 17.78 19.05 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "9fb2bbe7-9a9a-4934-af4a-089a8f573c7c")
+	)
+	(text "26/12/24"
+		(exclude_from_sim no)
+		(at 139.7 27.94 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left top)
+		)
+		(uuid "a3794fed-7420-456d-b868-0b3944d293e2")
+	)
+	(text "REVISION"
+		(exclude_from_sim no)
+		(at 182.88 17.78 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+			)
+			(justify left top)
+		)
+		(uuid "a6aa5374-f47d-41a2-839c-cbda18384417")
+	)
+	(text "DATE"
+		(exclude_from_sim no)
+		(at 144.78 17.78 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+			)
+			(justify left top)
+		)
+		(uuid "ada6eeaa-9f73-488e-a8ab-3eb765300026")
+	)
+	(text "03"
+		(exclude_from_sim no)
+		(at 21.59 41.91 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "c69e36a1-ca0b-4fa2-aed4-2803bb240ce4")
+	)
+	(text "PIN OUT"
+		(exclude_from_sim no)
+		(at 45.72 50.8 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "d5ec36d5-1a5a-4279-99ab-f0cc3c920ba6")
+	)
+	(text "Power IN & MCU GPIOs"
+		(exclude_from_sim no)
+		(at 45.72 43.18 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "e04e739f-c35b-4849-b3fb-693be9ef855b")
+	)
+	(text "Table of Contents"
+		(exclude_from_sim no)
+		(at 45.72 26.67 0)
+		(effects
+			(font
+				(size 2.413 2.413)
+			)
+			(justify left top)
+		)
+		(uuid "f7e287c0-0c61-4528-b75c-24ec04e7e271")
+	)
+	(polyline
+		(pts
+			(xy 137.16 17.78) (xy 137.16 35.306)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "2633ff39-4c7f-4be0-be7c-a0747af465c3")
+	)
+	(polyline
+		(pts
+			(xy 137.16 17.78) (xy 398.526 17.78)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "2b342899-8246-4625-9e82-03dca701bce6")
+	)
+	(polyline
+		(pts
+			(xy 226.06 17.78) (xy 226.06 35.306)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "6c3d1dc9-65c7-4cbb-92a8-e545e6acc07e")
+	)
+	(polyline
+		(pts
+			(xy 398.78 17.78) (xy 398.78 35.306)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "783e39bb-1a6c-4a7b-8471-796b7546a224")
+	)
+	(polyline
+		(pts
+			(xy 137.16 25.4) (xy 398.526 25.4)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "cf1778b0-5a65-4e8e-8820-53d1bfd67dd3")
+	)
+	(polyline
+		(pts
+			(xy 172.72 17.78) (xy 172.72 35.306)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "dc375c35-4695-48e5-8889-b72257c8ff76")
+	)
+	(polyline
+		(pts
+			(xy 137.16 35.56) (xy 398.526 35.56)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "ec3cea32-c4c0-40d3-a48d-81de4abcce1e")
+	)
+	(symbol
+		(lib_id "ProPrj_Wio-easyedapro:pageTemplate_A3_1654x1169")
+		(at 0 0 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a795d377-475f-4336-a856-2cc78a25c7f1")
+		(property "Reference" "?"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "pageTemplate_A3_1654x1169"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProPrj_Wio-easyedapro:"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Drawing" "Harry Qin"
+			(at 332.994 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Count" "4"
+			(at 409.448 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Modify Date" "Friday, December 27, 2024"
+			(at 355.854 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Name" "01 Table of Contents"
+			(at 357.124 281.178 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Number" "1"
+			(at 403.098 285.75 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Page Size" "A3"
+			(at 325.374 281.94 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "RevCode" "v1.0"
+			(at 401.574 281.94 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left top)
+			)
+		)
+		(property "Schematic Name" "Wio LR1121 Module"
+			(at 363.22 272.542 0)
+			(effects
+				(font
+					(size 1.651 1.651)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project ""
+				(path "/aec1c255-9330-4c8b-9391-79ab531f92ea/c663beed-38b4-4662-b52a-52aeb702edcc"
+					(reference "?")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
