@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -0.5 -22 0)
+		(at 7.112 -21.336 0)
 		(layer "F.SilkS")
 		(uuid "a9f5f5dd-597c-45dd-b31d-a35c3963eed2")
 		(effects
@@ -15,15 +15,14 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "XIAO-SAMD21-SMD"
+	(property "Value" "Val**"
 		(at 8.89 -10.795 0)
 		(layer "F.Fab")
 		(uuid "2d66aca7-e0b3-44df-838e-be285890792c")
 		(effects
 			(font
-				(size 0.635 0.635)
-				(thickness 0.1016)
-				(bold yes)
+				(size 0.536448 0.536448)
+				(thickness 0.073152)
 			)
 		)
 	)
@@ -36,7 +35,6 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
 			)
 		)
 	)
@@ -49,7 +47,6 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
 			)
 		)
 	)
@@ -62,7 +59,6 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
 			)
 		)
 	)
@@ -415,46 +411,44 @@
 		(thermal_bridge_angle 45)
 		(uuid "fd579d63-bbef-4609-9252-aad3f944a314")
 	)
-	(pad "15" smd roundrect
-		(at 7.747 -1.8603 90)
-		(size 2.5 1.1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.25)
-		(solder_mask_margin 0.0508)
-		(thermal_bridge_angle 45)
-		(uuid "144d3c3d-6207-433c-9e61-4f75722af865")
-	)
-	(pad "16" smd roundrect
-		(at 10.287 -1.8603 90)
-		(size 2.5 1.1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.25)
-		(solder_mask_margin 0.0508)
-		(thermal_bridge_angle 45)
-		(uuid "3780a4ef-348c-4241-b04b-2cb4f7127fa2")
-	)
-	(pad "17" smd circle
+	(pad "24" smd circle
 		(at 7.747 -18.8783)
 		(size 1.7 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "b41f05b6-c247-4448-ade6-b9856922e9c3")
 	)
-	(pad "18" smd circle
+	(pad "25" smd circle
 		(at 10.287 -18.8783)
 		(size 1.7 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "f7daaee5-3d37-4977-8c14-d58689c2eaf6")
 	)
-	(pad "19" smd circle
+	(pad "26" smd circle
 		(at 7.747 -16.3383)
 		(size 1.7 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "ad890579-1e55-4b71-9d59-080a59598896")
 	)
-	(pad "20" smd circle
+	(pad "27" smd circle
 		(at 10.287 -16.3383)
 		(size 1.7 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "22959b7c-559b-4b72-b2a4-a0d26b3295b4")
+	)
+	(pad "32" smd roundrect
+		(at 7.747 -1.8603 90)
+		(size 2.5 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "144d3c3d-6207-433c-9e61-4f75722af865")
+	)
+	(pad "33" smd roundrect
+		(at 10.287 -1.8603 90)
+		(size 2.5 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "3780a4ef-348c-4241-b04b-2cb4f7127fa2")
 	)
 )
