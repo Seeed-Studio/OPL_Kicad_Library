@@ -2144,7 +2144,7 @@
 			)
 		)
 		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-C6-SMD"
-			(at -8.89 5.08 0)
+			(at -13.716 6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2452,7 +2452,7 @@
 						)
 					)
 				)
-				(number "24"
+				(number "15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2470,7 +2470,7 @@
 						)
 					)
 				)
-				(number "25"
+				(number "16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2488,7 +2488,7 @@
 						)
 					)
 				)
-				(number "26"
+				(number "17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2506,7 +2506,7 @@
 						)
 					)
 				)
-				(number "27"
+				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2524,7 +2524,7 @@
 						)
 					)
 				)
-				(number "28"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2542,7 +2542,7 @@
 						)
 					)
 				)
-				(number "29"
+				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2560,7 +2560,7 @@
 						)
 					)
 				)
-				(number "30"
+				(number "21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2578,7 +2578,7 @@
 						)
 					)
 				)
-				(number "31"
+				(number "22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2589,14 +2589,14 @@
 			(pin passive line
 				(at -2.54 -29.21 90)
 				(length 2.54)
-				(name "BAT"
+				(name "BAT+"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "32"
+				(number "23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2607,14 +2607,14 @@
 			(pin passive line
 				(at 2.54 -29.21 90)
 				(length 2.54)
-				(name "GND"
+				(name "BAT-"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "33"
+				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
