@@ -141,17 +141,6 @@
 		(layer "Edge.Cuts")
 		(uuid "e1d8f660-1495-43db-8a6b-7fdc7dc42e35")
 	)
-	(fp_arc
-		(start 10.48004 6.985)
-		(mid 9.922078 8.332038)
-		(end 8.57504 8.89)
-		(stroke
-			(width 0.0254)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e1d8f660-1495-43db-8a6b-7fdc7dc42e35")
-	)
 	(fp_line
 		(start 10.57 4.5161)
 		(end 10.57 -4.485)
